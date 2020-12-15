@@ -1,0 +1,9 @@
+Other than anaconda, I am using:
+pandas 
+matplotlib.pyplot
+seaborn
+numpy
+math
+statsmodels.api
+patsy
+dmatrices from patsy
